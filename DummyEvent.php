@@ -1,6 +1,6 @@
 <?php
 
-namespace EventSauce\MessageOutbox;
+namespace EventSauce\MessageOutbox\TestTooling;
 
 use EventSauce\EventSourcing\Serialization\SerializablePayload;
 
